@@ -1,0 +1,17 @@
+.icon {
+    margin-right: 5px; 
+    display: flex;
+    align-items: center;
+}
+
+.tab-content {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.tab-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
